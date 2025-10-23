@@ -1,0 +1,9 @@
+Scheduler: priority
+Quantum: 4
+
+Gantt Chart: P1(8) P2(4) P3(9) P4(5) 
+
+Average Waiting Time: 8.75
+Average Turnaround Time: 15.25
+CPU Utilization: 100.00%
+Throughput: 0.15 processes/unit time
